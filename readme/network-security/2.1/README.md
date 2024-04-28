@@ -187,7 +187,7 @@ Another good tool to do host discovery is: NetDiscovery, that permits to do:
 
 ## Other Resources
 
-<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% content-ref url="https://app.gitbook.com/s/PNcjhcAuvH4mlZKYrNu3/readme/assessment-methodologies-and-auditing/1.2-footprinting-and-scanning" %}
 [1.2 Footprinting & Scanning](https://app.gitbook.com/s/PNcjhcAuvH4mlZKYrNu3/readme/assessment-methodologies-and-auditing/1.2-footprinting-and-scanning)
