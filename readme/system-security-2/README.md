@@ -6,15 +6,16 @@
 
 > 1. [DB & SQL Introduction](5.1-db-and-sql-introduction.md)
 > 2. [SQL Injection (SQLi)](5.2-sql-injection-sqli/)
-> 3. [In-Band SQL Injection](5.3-in-band-sqli.md)
-> 4. [Error-Based SQL Injection](5.4-error-based-sqli.md)
-> 5. [Union-Based SQLi](5.5-union-based-sqli.md)
-> 6. [Boolean-Based SQLi](5.6-boolean-based-sqli.md)
-> 7. [Time-Based SQLi](5.7-time-based-sqli.md)
-> 8. [Blind SQLi](5.8-blind-sqli.md)
-> 9. [NoSQL](5.9-nosql/)
-> 10. [SQLMap](5.10-sqlmap.md)
-> 11. [Mitigation Strategies](5.11-mitigation-strategies.md)
+> 3. [In-Band SQL Injection](5.3-in-band-sqli/)
+>    1. [Error-Based SQL Injection](5.3-in-band-sqli/5.3.1-error-based-sqli.md)
+>    2. [Union-Based SQLi](5.3-in-band-sqli/5.3.2-union-based-sqli.md)
+> 4. [Blind SQLi](5.4-blind-sqli/)
+>    1. [Boolean-Based SQLi](5.4-blind-sqli/5.4.1-boolean-based-sqli.md)
+>    2. [Time-Based SQLi](5.4-blind-sqli/5.4.2-time-based-sqli.md)
+> 5. [NoSQL](5.5-nosql/)
+>    1. [MongoDB NoSQL Injection](5.5-nosql/5.5.1-mongodb-nosql-injection.md)
+> 6. [SQLMap](5.6-sqlmap.md)
+> 7. [Mitigation Strategies](5.7-mitigation-strategies.md)
 
 <details>
 

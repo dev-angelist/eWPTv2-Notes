@@ -10,6 +10,10 @@ SQL, a powerful interpreted language, is used to extract and manipulate data fro
 
 Before delving into attack techniques, understanding some SQL basics is essential. This includes knowledge of SQL statement syntax, query execution, union operations, the DISTINCT and ALL operators, and how comments function.
 
+Here below the three common types of SQL:
+
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
 ### SQL Statements
 
 SQL allows the selection of constant values, such as:
