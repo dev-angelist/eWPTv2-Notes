@@ -6,7 +6,7 @@ description: INE/eLearnSecurity Web Application Penetration Tester (eWPTv2) Note
 
 <div align="left">
 
-<figure><img src=".gitbook/assets/image (7) (1).png" alt="" width="140"><figcaption><p><a href="https://ine.com/learning/certifications/external/elearnsecurity-web-application-penetration-tester">https://ine.com/learning/certifications/external/elearnsecurity-web-application-penetration-tester</a></p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (7) (1) (1).png" alt="" width="140"><figcaption><p><a href="https://ine.com/learning/certifications/external/elearnsecurity-web-application-penetration-tester">https://ine.com/learning/certifications/external/elearnsecurity-web-application-penetration-tester</a></p></figcaption></figure>
 
 </div>
 
