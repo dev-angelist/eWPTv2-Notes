@@ -12,7 +12,7 @@ Before delving into attack techniques, understanding some SQL basics is essentia
 
 Here below the three common types of SQL:
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 ### SQL Statements
 
