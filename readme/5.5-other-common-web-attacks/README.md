@@ -5,7 +5,7 @@
 ### Topics
 
 > 1. [HTTP Attacks](6.1-http-attacks/)
-> 2. [Session Attacks](5.5.1-session-attacks.md)
+> 2. [Session Attacks](5.5.1-session-attacks/)
 > 3. [CSRF](5.5.2-csrf.md)
 > 4. [File and Resource Attacks](5.5.3-file-and-resource-attacks.md)
 
