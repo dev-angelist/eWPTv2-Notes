@@ -7,7 +7,7 @@
 > 1. [HTTP Attacks](6.1-http-attacks/)
 > 2. [Session Attacks](5.5.1-session-attacks/)
 > 3. [CSRF](5.5.2-csrf.md)
-> 4. [File and Resource Attacks](5.5.3-file-and-resource-attacks.md)
+> 4. [Command Injection](5.5.3-file-and-resource-attacks.md)
 
 in addition to SQLi and XSS, there are several other common web attacks that malicious actors may use to exploit vulnerabilities in web applications. Here are a few notable ones:
 

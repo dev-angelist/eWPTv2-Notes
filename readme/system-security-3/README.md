@@ -2,9 +2,11 @@
 
 ### Topics
 
-> 1. &#x20;
+> 1. [File Upload Vulnerability](7.1-file-upload-vulnerability.md)
+> 2. [Directory Traversal](7.2-directory-traversal.md)
+> 3. [File Inclusion (LFI and RFI)](7.3-file-inclusion-lfi-and-rfi/)
 
-
+####
 
 > #### ❗ Disclaimer
 >

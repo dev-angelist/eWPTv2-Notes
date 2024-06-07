@@ -26,7 +26,7 @@ This exam is designed to be a milestone certification for someone with foundatio
 * [**Cross-Site Scripting (XSS)**](readme/system-security-1/) \~ 9 hours
 * [**SQL Injection (SQLi)** ](readme/system-security-2/)\~ 17 hours
 * [**Common Attacks**](readme/5.5-other-common-web-attacks/) \~ 12 hours
-* [**File & Resource Attacks**](readme/system-security-3.md) \~ 11 hours
+* [**File & Resource Attacks**](readme/system-security-3/) \~ 11 hours
 * [**Web Service Security Testing**](readme/system-security-4.md)\~ 5 hours
 * [**CMS Pentesting** ](readme/system-security-5.md)\~ 9 hours
 * [**Encoding, Filtering & Evasion**](readme/system-security-6.md) \~ 8 hours
